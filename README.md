@@ -1,9 +1,10 @@
 # Predicting Car selling price using Machine Learning
+<hr>
 
 Build a Machine Learning model capable of predicting selling price of car based on various attributes.
 
 ## Problem Defintion
-Given various factors of the car in the form of independent variables, which can be used to  predict the car selling price?
+Given various factors of the car in the form of independent variables, which can be used to predict the car selling price?
 
 ## Approach
 1. Problem Definition
@@ -14,7 +15,7 @@ Given various factors of the car in the form of independent variables, which can
 
 ## Data
 The original data came from the Cleavland data from the Kaggle Machine Learning Repository<br>
-<a href="https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho">Car Price Prediction</a>
+Check out the <a href="https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho">Data</a> !
 
 ## Evaluation
 
