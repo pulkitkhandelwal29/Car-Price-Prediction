@@ -31,3 +31,8 @@ Features are available in the data set for reference
 * Seaborn
 * Scikit-Learn
 * Pickle
+
+<img width="960" alt="Screenshot 2021-04-06 222225" src="https://user-images.githubusercontent.com/81919208/113753414-b15d4600-972b-11eb-946d-86e9c8b57e8c.png">
+<img width="959" alt="Screenshot 2021-04-06 230100" src="https://user-images.githubusercontent.com/81919208/113753687-01d4a380-972c-11eb-8a9e-25e2413f7020.png">
+
+
